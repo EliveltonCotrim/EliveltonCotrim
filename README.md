@@ -18,8 +18,9 @@
 <hr>
 <div>  
   <a href="https://www.instagram.com/eliveltoncotrim_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:elivelton.gbi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:elivelton.gbi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elivelton-cotrim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/elivelton-cotrim/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=#25D366 target="_blank"></a>   
 </div>
 <!--
 **EliveltonCotrim/EliveltonCotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
