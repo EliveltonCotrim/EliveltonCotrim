@@ -58,13 +58,7 @@
 </div>
 <hr>
 <div>
-    <a href="mailto:elivelton.gbi@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/elivelton-cotrim/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white target="
-            _blank"></a>
-    <a href="https://wa.me/5577991513661/" target="_blank"><img
-            src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white target="
-            _blank"></a>
+    <a href="mailto:elivelton.gbi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/elivelton-cotrim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://wa.me/5577991513661/" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
