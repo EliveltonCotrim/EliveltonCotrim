@@ -51,7 +51,7 @@
 <div>
     <p align="left">
         <img align="center" height="180"
-            src="https://github-readme-stats.vercel.app/api?username=EliveltonCotrim&show_icons=true&theme=dark" />
+            src="https://github-readme-stats.vercel.app/api?username=EliveltonCotrim&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
         <img align="center" height="180"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonCotrim&layout=compact&show_icons=true&theme=dark">
     </p>
