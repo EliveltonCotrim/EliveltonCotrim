@@ -25,8 +25,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img align="center" alt="Elivelton-alpinejs" height="80" width="80"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original-wordmark.svg" />
-    <img align="center" alt="Elivelton-docker" height="40" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Elivelton-tailwindcss" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" alt="Elivelton-bootstrap" height="40" width="40"
